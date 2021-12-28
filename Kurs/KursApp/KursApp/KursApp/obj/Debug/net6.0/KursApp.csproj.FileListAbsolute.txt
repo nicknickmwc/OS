@@ -1,0 +1,15 @@
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\bin\Debug\net6.0\KursApp.exe
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\bin\Debug\net6.0\KursApp.deps.json
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\bin\Debug\net6.0\KursApp.runtimeconfig.json
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\bin\Debug\net6.0\KursApp.dll
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\bin\Debug\net6.0\ref\KursApp.dll
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\bin\Debug\net6.0\KursApp.pdb
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\obj\Debug\net6.0\KursApp.csproj.AssemblyReference.cache
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\obj\Debug\net6.0\KursApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\obj\Debug\net6.0\KursApp.AssemblyInfoInputs.cache
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\obj\Debug\net6.0\KursApp.AssemblyInfo.cs
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\obj\Debug\net6.0\KursApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\obj\Debug\net6.0\KursApp.dll
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\obj\Debug\net6.0\ref\KursApp.dll
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\obj\Debug\net6.0\KursApp.pdb
+C:\Users\Nikolai\Desktop\OS\Kurs\KursApp\KursApp\KursApp\obj\Debug\net6.0\KursApp.genruntimeconfig.cache

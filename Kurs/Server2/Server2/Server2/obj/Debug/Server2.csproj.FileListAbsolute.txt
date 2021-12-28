@@ -1,0 +1,8 @@
+C:\Users\Nikolai\Desktop\OS\Kurs\Server2\Server2\Server2\bin\Debug\Server2.exe.config
+C:\Users\Nikolai\Desktop\OS\Kurs\Server2\Server2\Server2\bin\Debug\Server2.exe
+C:\Users\Nikolai\Desktop\OS\Kurs\Server2\Server2\Server2\bin\Debug\Server2.pdb
+C:\Users\Nikolai\Desktop\OS\Kurs\Server2\Server2\Server2\obj\Debug\Server2.csproj.AssemblyReference.cache
+C:\Users\Nikolai\Desktop\OS\Kurs\Server2\Server2\Server2\obj\Debug\Server2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolai\Desktop\OS\Kurs\Server2\Server2\Server2\obj\Debug\Server2.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\Desktop\OS\Kurs\Server2\Server2\Server2\obj\Debug\Server2.exe
+C:\Users\Nikolai\Desktop\OS\Kurs\Server2\Server2\Server2\obj\Debug\Server2.pdb
