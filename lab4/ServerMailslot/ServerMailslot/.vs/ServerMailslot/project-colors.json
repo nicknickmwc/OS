@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11cf524a-909d-43b2-8b2a-fc79e0c559a3": {
+      "ProjectGuid": "11cf524a-909d-43b2-8b2a-fc79e0c559a3",
+      "DisplayName": "ServerMailslot",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

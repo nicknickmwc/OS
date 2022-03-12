@@ -1,0 +1,11 @@
+C:\Users\Nikolai\Desktop\OS\lab4\ClientMailslot\ClientMailslot\ClientMailslot\bin\Debug\ClientMailslot.exe.config
+C:\Users\Nikolai\Desktop\OS\lab4\ClientMailslot\ClientMailslot\ClientMailslot\bin\Debug\ClientMailslot.exe
+C:\Users\Nikolai\Desktop\OS\lab4\ClientMailslot\ClientMailslot\ClientMailslot\bin\Debug\ClientMailslot.pdb
+C:\Users\Nikolai\Desktop\OS\lab4\ClientMailslot\ClientMailslot\ClientMailslot\obj\Debug\ClientMailslot.csproj.AssemblyReference.cache
+C:\Users\Nikolai\Desktop\OS\lab4\ClientMailslot\ClientMailslot\ClientMailslot\obj\Debug\ClientMailslot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolai\Desktop\OS\lab4\ClientMailslot\ClientMailslot\ClientMailslot\obj\Debug\ClientMailslot.Form1.resources
+C:\Users\Nikolai\Desktop\OS\lab4\ClientMailslot\ClientMailslot\ClientMailslot\obj\Debug\ClientMailslot.Properties.Resources.resources
+C:\Users\Nikolai\Desktop\OS\lab4\ClientMailslot\ClientMailslot\ClientMailslot\obj\Debug\ClientMailslot.csproj.GenerateResource.cache
+C:\Users\Nikolai\Desktop\OS\lab4\ClientMailslot\ClientMailslot\ClientMailslot\obj\Debug\ClientMailslot.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\Desktop\OS\lab4\ClientMailslot\ClientMailslot\ClientMailslot\obj\Debug\ClientMailslot.exe
+C:\Users\Nikolai\Desktop\OS\lab4\ClientMailslot\ClientMailslot\ClientMailslot\obj\Debug\ClientMailslot.pdb
