@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 namespace ServerMailslot
 {
-    internal class Mailslot
+     class Mailslot
 
     {
 
@@ -34,31 +34,27 @@ namespace ServerMailslot
             [MarshalAs(UnmanagedType.U4)] FileMode creationDisposition, int flags, IntPtr template);
 
         [DllImport("kernel32.dll", SetLastError = true)]
-        private unsafe static extern bool ReadFile(IntPtr hFile, out byte[] lpBuffer,int nNumberOfBytesToRead,out int lpNumberOfBytesRead,
-            int overlapped);
+        private static extern bool ReadFile(IntPtr hFile, out byte[] lpBuffer,uint nNumberOfBytesToRead,out uint lpNumberOfBytesRead,
+            [In] ref System.Threading.NativeOverlapped lpOverlapped);
 
         [DllImport("kernel32.dll", SetLastError = true)]
         static extern bool WriteFile(IntPtr hFile, byte[] lpBuffer, uint nNumberOfBytesToWrite, out uint lpNumberOfBytesWritten,
             [In] ref System.Threading.NativeOverlapped lpOverlapped);
 
-        public static void Connect(string Scope)
+        public static void Connect()
         {
-
                 _ReadHandle = CreateMailslot("\\\\.\\mailslot\\" + _SlotName, 0, 0,
                                               IntPtr.Zero);
-                //_WriteHandle = CreateFile("\\\\" + Scope + "\\mailslot\\" + _SlotName,
-                      //FileAccess.Write, FileShare.Read, 0, FileMode.Open, 0, IntPtr.Zero);
-           
         }
 
         public static string getMessage()
 
         {
-            int bytesWritten = 0;
+            uint bytesWritten = 0;
             //string message = "";
             int overL;
             byte[] data = new byte[64];
-            ReadFile(_ReadHandle, out data, data.Length, out bytesWritten, 0);
+            ReadFile(_ReadHandle, out data, (uint)data.Length, out bytesWritten, ref stnOverlap);
             //GetMailslotInfo(_ReadHandle, 0, ref iMsgSize, IntPtr.Zero, IntPtr.Zero);
             //int dataL = data.Length;
             string message = Encoding.UTF8.GetString(data);

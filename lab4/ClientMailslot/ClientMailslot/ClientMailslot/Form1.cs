@@ -19,7 +19,7 @@ namespace ClientMailslot
         public static string _SlotName = "slot1";
         public static string Scope = "*";
         uint bytesWritten = 0;
-        System.Threading.NativeOverlapped stnOverlap = new System.Threading.NativeOverlapped();
+        public static System.Threading.NativeOverlapped stnOverlap = new System.Threading.NativeOverlapped();
         public static bool result;
 
         [DllImport("Kernel32.dll", SetLastError = true, CharSet = CharSet.Auto)]

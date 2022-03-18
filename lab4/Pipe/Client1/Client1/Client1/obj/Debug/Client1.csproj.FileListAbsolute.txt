@@ -1,0 +1,11 @@
+C:\Users\Nikolai\Desktop\OS\lab4\Pipe\Client1\Client1\Client1\bin\Debug\Client1.exe.config
+C:\Users\Nikolai\Desktop\OS\lab4\Pipe\Client1\Client1\Client1\bin\Debug\Client1.exe
+C:\Users\Nikolai\Desktop\OS\lab4\Pipe\Client1\Client1\Client1\bin\Debug\Client1.pdb
+C:\Users\Nikolai\Desktop\OS\lab4\Pipe\Client1\Client1\Client1\obj\Debug\Client1.csproj.AssemblyReference.cache
+C:\Users\Nikolai\Desktop\OS\lab4\Pipe\Client1\Client1\Client1\obj\Debug\Client1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolai\Desktop\OS\lab4\Pipe\Client1\Client1\Client1\obj\Debug\Client1.Form1.resources
+C:\Users\Nikolai\Desktop\OS\lab4\Pipe\Client1\Client1\Client1\obj\Debug\Client1.Properties.Resources.resources
+C:\Users\Nikolai\Desktop\OS\lab4\Pipe\Client1\Client1\Client1\obj\Debug\Client1.csproj.GenerateResource.cache
+C:\Users\Nikolai\Desktop\OS\lab4\Pipe\Client1\Client1\Client1\obj\Debug\Client1.csproj.CoreCompileInputs.cache
+C:\Users\Nikolai\Desktop\OS\lab4\Pipe\Client1\Client1\Client1\obj\Debug\Client1.exe
+C:\Users\Nikolai\Desktop\OS\lab4\Pipe\Client1\Client1\Client1\obj\Debug\Client1.pdb
